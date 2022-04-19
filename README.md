@@ -1,15 +1,15 @@
 # Hello Firebase
 
-[x] This project is clone-started from **Hello Webpack**
-[x] This repo encapsulates firebase examples as given in **Firebase Docs** and more.
-[x] **Firebase Emulator Suite** is used to run the examples
-[x] Currently only contains code for *Firebase Client SDK*
+- [x] This project is clone-started from **Hello Webpack**
+- [x] This repo encapsulates firebase examples as given in **Firebase Docs** and more.
+- [x] **Firebase Emulator Suite** is used to run the examples
+- [x] Currently only contains code for *Firebase Client SDK*
 
 ## TODO
-[ ] Add namespace code
-[ ] Add Admin SDK code
-[ ] Add samples
-[ ] Add link to a complete app built in firebase
+- [ ] Add namespace code
+- [ ] Add Admin SDK code
+- [ ] Add samples
+- [ ] Add link to a complete app built in firebase
 
 ## Running Webpack
 - run `npm run build` to build project
