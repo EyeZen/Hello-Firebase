@@ -34,12 +34,12 @@
 - open app at `http://localhost:8080`
 
 ## Links
-- [Firebase Docs](firebase)
-- [Firebase Firestore Docs](firestore)
-- [Firebase Authentication Docs](auth)
-- [Firebase Storage Docs](storage)
-- [Firebase Realtime Database Docs](database)
-- [Firebase Emulator Suite](emulators)
+- [Firebase Docs][firebase]
+- [Firebase Firestore Docs][firestore]
+- [Firebase Authentication Docs][auth]
+- [Firebase Storage Docs][storage]
+- [Firebase Realtime Database Docs][database]
+- [Firebase Emulator Suite][emulators]
  
 [firebase]: <https://firebase.google.com/docs/build>
 [firestore]: <https://firebase.google.com/docs/firestore>
