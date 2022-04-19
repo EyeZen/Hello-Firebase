@@ -22,7 +22,7 @@
 - run in root folder: `npm install`
 ### firebase
 - install firebase: `npm install firebase-tools`
-- login to firebase
+- login to firebase `firebase login`
 - initialize repo, and select the emulators: `firebase init`
 - if already initialized firebase and need to add emulator: `firebase init emulators` and select required emulators, and download emulators
 
